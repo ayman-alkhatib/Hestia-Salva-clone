@@ -713,6 +713,7 @@ footer .links ul a:hover {
 
 /* end footer */
 .lang-swap {
+      z-index: 100;
     position: fixed;
     bottom: 10px;
     right: 20px;
